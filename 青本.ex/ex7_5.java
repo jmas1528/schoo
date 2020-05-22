@@ -1,0 +1,13 @@
+
+
+
+public class ex7_5 {
+static void hello() {
+	System.out.println("Ç±ÇÒÇ…ÇøÇÕÅI");
+
+}
+public static void main(String[]args) {
+	hello();
+}
+
+}
